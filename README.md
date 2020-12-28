@@ -1,4 +1,4 @@
-# Conquering Responsive Layouts by Kevin powell course
+# Conquering Responsive Layouts course by Kevin powell 
 This is free course with some easy tips to learn how to do things with css to achieve a correct responsive layout.
 
 ## 21 Days
