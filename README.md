@@ -1,4 +1,4 @@
-# Conquering Responsive Layouts course by Kevin powell 
+# Conquering Responsive Layouts course by Kevin powell
 This is free course with some easy tips to learn how to do things with css to achieve a correct responsive layout.
 
 ## 21 Days
@@ -10,4 +10,4 @@ This is free course with some easy tips to learn how to do things with css to ac
 - Day 5 | Challenge 03
 - Day 6 | Review
 - Day 7 | Challenge 03 Solution
-- Day 8 | Flexbox Basics
+- Day 8 | Flexbox Basics && Challenge 04
