@@ -27,15 +27,15 @@ img {
   color: white;
 }
 
-.hero__text {
-  width: 62%;
+.hero__text, .content-section {
+  width: 60%;
 }
 
 .hero__text p {
   margin-bottom: 3em;
 }
 
-.hero__img {
+.hero__img, .sidebar-section {
   width: 35%;
   align-self: flex-start;
 }
@@ -64,27 +64,22 @@ img {
 .row {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
 }
 .col {
   width: 100%;
 }
 
-
 .sidebar-section {
-  width: 35%;
   background-color: #136C72;
   color: white;
   text-align: center;
-  flex-direction: column;
 }
 
-.sidebar-section p {
-  padding: 0 1.5em;
+.pd-1 {
+  padding: 1em;
 }
 
 .content-section {
-  width: 62%;
   color: #3A3A3A;
 }
 
@@ -93,5 +88,5 @@ img {
 }
 
 .main-section {
-  padding: 3em 0;
+  padding: 1.5em 0;
 }
